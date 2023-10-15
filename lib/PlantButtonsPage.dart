@@ -12,7 +12,7 @@ class _PlantButtonsPageState extends State<PlantButtonsPage> {
 
   void _handleButtonPress(int id) {
     setState(() {
-      selectedButtonId = id;
+      selectedButtonId = id; // aqui criamos uma seleção pra botões pressionados
     });
   }
 
