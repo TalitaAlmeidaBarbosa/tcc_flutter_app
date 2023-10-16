@@ -31,12 +31,12 @@ class _PlantButtonsPageState extends State<PlantButtonsPage> {
         padding: EdgeInsets.all(15.0),
         child: GridView.count(
           crossAxisCount: 2,
-          children: [
+          children: [ // construimos uma lista com a imagem, nome e id de cada botão (um detalhe a mais para quando ele for selecionado)
             PlantButton(
-              imageUrl: 'img/samambaia.jpeg',
+              imageUrl: 'img/samambaia.jpeg', // as imagens colocadas na pasta img
               plantName: 'Samambaia',
               id: 1,
-              isSelected: selectedButtonId == 1,
+              isSelected: selectedButtonId == 1, // um id para ser apenas um botão selecionado por vez
               onPressed: _handleButtonPress,
             ),
             PlantButton(
