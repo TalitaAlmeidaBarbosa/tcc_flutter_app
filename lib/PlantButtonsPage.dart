@@ -38,7 +38,7 @@ class _PlantButtonsPageState extends State<PlantButtonsPage> {
               id: 1,
               isSelected: selectedButtonId == 1, // um id para ser apenas um botão selecionado por vez
               onPressed: _handleButtonPress,
-            ),
+            ), // samambaia
             PlantButton(
               imageUrl: 'img/suculenta.jpeg',
               plantName: 'Suculenta',
