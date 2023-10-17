@@ -1,6 +1,6 @@
 # tcc_flutter
 
-O projeto de interface consiste em um aplicativo de configurações com seis botões inclusos a imagem e nome em cada para o usuário poder modificar a vontade.
+O projeto de interface consiste em uma página de configurações com seis botões incluindo a imagem e nome em cada um para o usuário poder modificar a escolha do seu exemplar de planta.
 
 ## Como rodar
 
