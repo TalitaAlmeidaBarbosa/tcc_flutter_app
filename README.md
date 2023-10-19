@@ -3,15 +3,13 @@
 Nosso tcc é um sistema de irrigação conectado a um aplicativo de configurações com seis exemplares de plantas já pré-programados que funcionará via Bluetooth para controle do sistema HardWere.
 "tcc_flutter_app" como está o nome do nosso repositório, nada mais é do que a parte de conexão entre o sistema de irrigação e o usuário (nosso aplicativo).
 
---> Front-end do TCC (app);<br/>
---> Desenvolvimento de Interface: Flutter;<br/>
---> Linguagem de programação: Dart;<br/>
-- teste
-- teste 1
+- Front-end do TCC (app);
+- Desenvolvimento de Interface: Flutter;
+- Linguagem de programação: Dart;
 
---> Back-end do TCC: lógica dos botões e funcionamento do HardWere;
---> Desenvolvimento de Interface: Arduino IDE;
---> Linguagem de programação: C++;
+- Back-end do TCC: lógica dos botões e funcionamento do HardWere;
+-  Desenvolvimento de Interface: Arduino IDE;
+- Linguagem de programação: C++;
 
 O projeto de interface consiste em uma página de configurações com seis botões incluindo a imagem e nome de cada um para o usuário poder identificar cada botão e poder modificar a escolha do seu exemplar de planta.
 para poder acessar as imagens no repositório : lib > img
