@@ -7,9 +7,12 @@ Nosso tcc é um sistema de irrigação conectado a um aplicativo de configuraç�
 - Desenvolvimento de Interface: Flutter;
 - Linguagem de programação: Dart;
 
+
 - Back-end do TCC: lógica dos botões e funcionamento do HardWere;
 -  Desenvolvimento de Interface: Arduino IDE;
 - Linguagem de programação: C++;
+
+  
 
 O projeto de interface consiste em uma página de configurações com seis botões incluindo a imagem e nome de cada um para o usuário poder identificar cada botão e poder modificar a escolha do seu exemplar de planta.
 para poder acessar as imagens no repositório : lib > img
