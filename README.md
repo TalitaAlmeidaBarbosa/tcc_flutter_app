@@ -9,7 +9,7 @@ Nosso tcc é um sistema de irrigação conectado a um aplicativo de configuraç�
 
 
 - Back-end do TCC: lógica dos botões e funcionamento do HardWere;
--  Desenvolvimento de Interface: Arduino IDE;
+-  Desenvolvimento do sistema: Arduino IDE;
 - Linguagem de programação: C++;
 
   
