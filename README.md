@@ -19,7 +19,12 @@ para poder acessar as imagens no repositório : lib > img
 
 ## Como rodar:
 
-Prepare o ambiente do Android Studio para instalar o Flutter (caso não esteja instalado)
+-> Prepare o ambiente do Android Studio para instalar o Flutter (caso não esteja instalado); </br>
+-> Abra o projeto no Android Studio;
+-> Escolha um emulador de sua preferência para rodar o aplicativo (lembrando que só irá funcionar se for android, nada de ios);
+-> Rode o programa e verá os botões.
+
+## Mais sobre o App:
 
 Desenvolvido em visual studio code o projeto migrou para o Android Studio tanto para poder rodar no emulador como para conectar com o Bluetooth que já existe no próprio programa.
 Dessa forma, abrimos essa parte do aplicativo no Android Studio, conforme as prioridades colocadas no projeto, inicialmente o aplicativo se mostra mais visual do que funcional de fato, podem ser observadas as alterações de cores conforme forem sendo pressionados cada botão (que sem a parte HardWere nada vai fazer além disso) e rodando no emulador o android de sua preferência, de cara já é possível ver esses botões em tela.
