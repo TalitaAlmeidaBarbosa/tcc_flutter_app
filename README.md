@@ -31,6 +31,6 @@ Dessa forma, abrimos essa parte do aplicativo no Android Studio, conforme as pri
 
 O foco maior desse projeto é deixar as coisas mais simples e intuitivas possíveis, sem muitos rodeios o usuário pode facilmente identificar de acordo com as necessidades que a sua planta precisa e ajustá-las de acordo com essas seis opções mostradas pelo aplicativo. De certo modo, entendemos que o usuário também precise de um mínimo conhecimento sobre o tempo e quantidade de água que a planta precisa, entretanto, visto que essa quetão se resolveria dado ao conhecimento de mundo, nosso objetivo apenas se mostra em apresentar esses seis botões visualmente identificáveis para livre escolha do usuário.
 
-## Sobre a lógica HardWere
+## Sobre a lógica HardWere:
 
 O sistema funcionará sem auxílio de nenhum tipo de sensor, o controle de funcionamento se dará inteiramente pelo tempo de execução, também já pré-programado. 
