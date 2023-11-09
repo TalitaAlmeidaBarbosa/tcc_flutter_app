@@ -22,7 +22,7 @@ para poder acessar as imagens no repositório : lib > img
 -> Prepare o ambiente do Android Studio para instalar o Flutter (caso não esteja instalado); </br>
 -> Abra o projeto no Android Studio; </br>
 -> Escolha um emulador de sua preferência para rodar o aplicativo (lembrando que só irá funcionar se for android, nada de ios); </br>
--> Rode o programa e verá os botõesem "funcionamento". </br>
+-> Rode o programa e verá os botões. </br>
 
 ## Mais sobre o App:
 
