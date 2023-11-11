@@ -35,4 +35,4 @@ O foco maior desse projeto é deixar as coisas mais simples e intuitivas possív
 
 O sistema funcionará sem auxílio de nenhum tipo de sensor, o controle de funcionamento se dará inteiramente pelo tempo de execução, também já pré-programado. O código do sistema em HardWare se encontra em outro repositório.
 
-by: Talita
+by: Talita.
